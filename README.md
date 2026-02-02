@@ -249,7 +249,7 @@ Evaluation console output:<br>
 <br><br>Image-Segmentation-EDD2020
 
 <a href="./projects/TensorFlowFlexUNet/EDD2020/evaluation.csv">evaluation.csv</a><br>
-The loss (categorical_crossentropy) to this EDD2020/test was low, and dice_coef_multiclass high as shown below.
+The loss (categorical_crossentropy) to this EDD2020/test was not low, and dice_coef_multiclass not high as shown below.
 <br>
 <pre>
 categorical_crossentropy,0.2778
