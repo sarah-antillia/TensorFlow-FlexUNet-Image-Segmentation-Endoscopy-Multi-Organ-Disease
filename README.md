@@ -1,7 +1,7 @@
-<h2>TensorFlow-FlexUNet-Image-Segmentation-Endscopy-Multi-Organ-Disease (2026/02/03)</h2>
+<h2>TensorFlow-FlexUNet-Image-Segmentation-Endoscopy-Multi-Organ-Disease (2026/02/03)</h2>
 Sarah T.  Arai<br>
 Software Laboratory antillia.com<br><br>
-This is the first experiment of Image Segmentation for <b>EndScopy Multi Organ Disease (EDD2020) </b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
+This is the first experiment of Image Segmentation for <b>Endoscopy Multi Organ Disease (EDD2020) </b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
 (TensorFlow Flexible UNet Image Segmentation Model for Multiclass), 
 and an <a href="https://drive.google.com/file/d/1nd7I_SbOUFQBzihfClDqlq00k2ZU-zsT/view?usp=sharing">Augmented-EDD2020-ImageMask-Dataset.zip</a> 
 with colorized masks, which was derived by us from
